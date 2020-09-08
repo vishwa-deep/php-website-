@@ -109,7 +109,7 @@ if(empty($err))
 <form action="" method="post">
   <div class="form-group">
     <label for="exampleInputEmail1">Username</label>
-    <input type="text" name="username" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Username">
+    <input type="email" name="username" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Username or Email">
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1">Password</label>
